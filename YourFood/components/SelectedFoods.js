@@ -1,0 +1,5 @@
+
+
+
+const likedFoods = [];
+const dislikedFoods = [];
